@@ -1,0 +1,4 @@
+/* Import your application global css files here or add the styles directly to this file */
+vaadin-app-layout {
+  --vaadin-app-layout-drawer-overlay: false;
+}

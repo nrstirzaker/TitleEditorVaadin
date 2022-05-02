@@ -1,0 +1,27 @@
+.menuItemSelected H6{
+	color:hsl(214, 100%, 70%);
+	text-transform:capitalize;
+	font-weight:500;
+	font-size:1rem
+	
+}
+
+.menuItemSelected .star{
+	color:red;
+}
+
+
+.menuItemDefault H6{
+	color:hsla(214, 42%, 18%, 0.72);
+	text-transform:capitalize;
+	font-weight:500;
+	font-size:1rem
+}
+
+.menuItemDefault .star{
+	color:red;
+}
+
+vaadin-app-layout {
+  --vaadin-app-layout-drawer-overlay: false;
+}
